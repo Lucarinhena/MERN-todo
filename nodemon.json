@@ -1,0 +1,5 @@
+{
+    "env": {
+        "MONGO_CONNECT": "mongodb+srv://lucacarinhena:FXKa0STw29YXLzRR@todo.mno71qi.mongodb.net/?retryWrites=true&w=majority&appName=Todo"
+    }
+}
